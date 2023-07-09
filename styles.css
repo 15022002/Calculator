@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.btn {
+  padding: 20px;
+  margin: 2px;
+}
+
+.text {
+  margin: auto;
+  padding: 7px 50px 10px 0px;
+}
+
+.col-sm-3 {
+  width: 100%;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin: 10px;
+  color: #8f8f8f;
+}
